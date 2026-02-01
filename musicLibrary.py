@@ -1,6 +1,8 @@
 music = {
-    "do":"https://youtu.be/1a5nyrMtRsk?si=ieSkhX0qCkoPQqtp",
-    "akshay khanna": "https://youtu.be/lelKIVOrvps?si=2-av1u3vt-i2njPI",
-    "monica":"https://youtu.be/aT4N7jn2Eww?si=lIsrxsH59UON3s6A",
-    "lovely" : "https://youtu.be/DRO9swjG5e0?si=QYU1Z11VH0BW8mq7"
+    
+    "shape of you":"https://youtu.be/JGwWNGJdvx8?si=U6v9Y3f6Yk1k0r8D",
+    "blinding lights":"https://youtu.be/fHI8X4OXluQ?si=G6Y2Y6r2b0k3X5oE",
+    "levitating":"https://youtu.be/TUVcZfQe-Kw?si=1jz1gX4b0k2Y3Z5N",
+    "peaches":"https://youtu.be/tQ0yjYUFKAE?si=H3k4Y2r2b0k1X5oE",
+    "drivers license":"https://youtu.be/ZmDBbnmKpqQ?si=J2k3Y4r2b0k5X1oE",
 }
